@@ -2,3 +2,4 @@
 ## 團隊成員
 - Hailey
 - Lotte
+- Chun
